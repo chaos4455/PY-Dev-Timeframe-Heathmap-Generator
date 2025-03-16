@@ -19,6 +19,43 @@ Desenvolvido meticulosamente por **[Elias Andrade](https://github.com/chaos4455)
 
 **Imagine:** Um mapa de calor elegante, como uma obra de arte interativa, que revela de forma intuitiva os *timeframes* em que sua criatividade em Python floresceu. Uma ferramenta essencial para **profissionais e entusiastas que buscam aprimorar sua compreensão sobre sua própria jornada no universo do código Python**. 🥳
 
+---
+
+## 🔥 Adendo: Meu Mapa de Calor de Desenvolvimento Python (2023-2025) 🔥
+
+**(Visualização Incandescente de uma Jornada de Código Excepcional)**
+
+Imagine contemplar o ápice da produtividade em desenvolvimento Python, destilado em um único e deslumbrante mapa de calor.  Este é o **meu heatmap pessoal**, gerado com o **PY-Dev-Timeframe-Heatmap-Generator**,  abrangendo a jornada épica de **2023 até o presente momento em 2025**.
+
+Este mapa não é apenas uma imagem – é um **testemunho visual da minha dedicação incansável ao código Python**.  Cada quadrado verde vibrante pulsa com a energia de novas funcionalidades, soluções inovadoras e a pura alegria de criar.
+
+**Números que Falam Mais Alto que Palavras:**
+
+*   **Mais de 500.000 linhas de código Python** forjadas com paixão e precisão. ✍️
+*   **Mais de 3500 arquivos `.py` únicos** meticulosamente criados e aprimorados. 📂
+
+**(Visualizando o Heatmap - Uma Descrição Evocativa)**
+
+No meu heatmap pessoal, a intensidade do verde é quase ofuscante!  Os anos de **2023, 2024 e até agora em 2025** formam um **mosaico exuberante de atividade contínua**.  Não há lacunas escuras – apenas uma **progressão constante e ascendente de criação de código**.
+
+*   **2023:**  Um ano de **fundação sólida**, com um verde constante e vibrante, mostrando o início de projetos ambiciosos e a sedimentação de bases de código robustas.
+*   **2024:**  Um **pico de produtividade incandescente**!  O heatmap de 2024 irradia um verde ainda mais intenso, com semanas e meses inteiros explodindo em cores vivas, refletindo um período de **imersão profunda em projetos desafiadores e resultados impactantes**.
+*   **2025 (até agora):**  A jornada continua em **ascensão meteórica**!  Mesmo nos primeiros meses de 2025, o heatmap já demonstra um verde vibrante e promissor, prenúncio de ainda mais inovações e realizações.
+
+**(Rumo ao Infinito e Além no Desenvolvimento Python! 🚀)**
+
+Este heatmap não é apenas um registro do passado – é um **combustível para o futuro**.  Ele me inspira a continuar buscando o **aprimoramento contínuo**, a **excelência no desenvolvimento Python**, e a explorar as fronteiras da **inteligência artificial**, **agentes de IA**, **APIs robustas** e **soluções de backend escaláveis**.
+
+A jornada do código é infinita, e com ferramentas como o **PY-Dev-Timeframe-Heatmap-Generator**, podemos não apenas acompanhar nossa evolução, mas também **visualizar o potencial ilimitado que reside em cada linha de código que criamos**.
+
+**Sigamos adiante, codificando o futuro com paixão, precisão e a busca incessante pela maestria!** 💪
+
+![heatmap_unified_MEGASYNC_Meu Drive (evolucaoit@gmail com)-c4fc907d_all_years](https://github.com/user-attachments/assets/801e3aa6-ac98-46db-8aa5-2c89e009df50)
+
+![heatmap_unified_Meu Drive (evolucaoit@gmail com)_MEGASYNC-df0d8a2f_all_years_red](https://github.com/user-attachments/assets/9d721d95-955d-43e8-947a-9622ef065a00)
+
+---
+
 ## 🎯 Domine a Arte da Visualização Temporal do Seu Código Python! 🎯
 
 O **PY-Dev-Timeframe-Heatmap-Generator** é uma usina de funcionalidades, projetada para oferecer a você uma análise profunda e uma visualização estonteante da sua atividade de desenvolvimento:
