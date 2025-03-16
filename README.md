@@ -15,7 +15,7 @@
 
 Já se pegou refletindo sobre a jornada da sua evolução como desenvolvedor Python? 🤔  Com o **PY-Dev-Timeframe-Heatmap-Generator**, prepare-se para **transcender a mera contagem de linhas de código** e mergulhar em uma **visualização cativante e perspicaz** da sua trajetória de criação de arquivos `.py`! 🚀
 
-Desenvolvido meticulosamente por **[Elias Andrade](https://github.com/chaos4455)**, este script Python é mais que uma ferramenta – é um **portal para a autodescoberta no desenvolvimento**. Visualize seus picos de produtividade com cores vibrantes, trace a progressão dos seus projetos ao longo do tempo, e decifre os **segredos dos seus ritmos de codificação**. 📈
+Desenvolvido meticulosamente para me permitir acompanhar meu progresso ao longo do tempo, este script Python é mais que uma ferramenta – é um **portal para a autodescoberta no desenvolvimento**. Visualize seus picos de produtividade com cores vibrantes, trace a progressão dos seus projetos ao longo do tempo, e decifre os **segredos dos seus ritmos de codificação**. 📈
 
 **Imagine:** Um mapa de calor elegante, como uma obra de arte interativa, que revela de forma intuitiva os *timeframes* em que sua criatividade em Python floresceu. Uma ferramenta essencial para **profissionais e entusiastas que buscam aprimorar sua compreensão sobre sua própria jornada no universo do código Python**. 🥳
 
