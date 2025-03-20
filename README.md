@@ -19,6 +19,8 @@ Desenvolvido meticulosamente para me permitir acompanhar meu progresso ao longo 
 
 **Imagine:** Um mapa de calor elegante, como uma obra de arte interativa, que revela de forma intuitiva os *timeframes* em que sua criatividade em Python floresceu. Uma ferramenta essencial para **profissionais e entusiastas que buscam aprimorar sua compreensão sobre sua própria jornada no universo do código Python**. 🥳
 
+![heatmap_unified_Meu Drive (evolucaoit@gmail com)_megasync 2024 pc quarto-001b14cd_all_years_roxo](https://github.com/user-attachments/assets/024b6592-0324-417d-9101-2f6856d06571)
+
 ---
 
 ## 🔥 Adendo: Meu Mapa de Calor de Desenvolvimento Python (2023-2025) 🔥
